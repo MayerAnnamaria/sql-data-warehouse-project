@@ -88,8 +88,6 @@ Hi, I'm **Annamaria Mayer**. I have a background in IT project coordination, sof
 
 ## 🛡️ License
 
-## Credits and Attribution
-
 This project is based on the [SQL Data Warehouse Project](https://github.com/DataWithBaraa/sql-data-warehouse-project) created by **Baraa Khatib Salkini (DataWithBaraa)**.
 
 The original project is licensed under the [MIT License](https://github.com/DataWithBaraa/sql-data-warehouse-project/blob/main/LICENSE).
